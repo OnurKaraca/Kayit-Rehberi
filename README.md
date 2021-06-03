@@ -1,2 +1,4 @@
-# Phyton3 ile Telefon Rehberi
- Numara ve isim kaydedip, düzenleme
+# Phyton3 ile Telefon ve Isım Rehberi
+ Tek bir pencereden, açılır pencereler ile bütün işlemleri yapabilme ve veritabanını açabilme.
+ 
+ SqLITE kullanarak 'REHBER' isimli veri tabanında verilerin saklanması.
