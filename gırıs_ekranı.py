@@ -4,7 +4,7 @@ import os
 from tkinter import *
 from tkinter import messagebox
 from PIL import Image, ImageTk 
-
+#github
 ekran=Tk()
 
 ekran.geometry('380x445')
